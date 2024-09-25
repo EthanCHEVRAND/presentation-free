@@ -4,13 +4,13 @@
 
 > [CHEVRAND Ethan](ethan.chevrand@edu.univ-fcomte.fr) *referent*
 >
-> [CHOULET Alban]
+> [CHOULET Alban](alban.choulet@edu.univ-fcomte.fr)
 >
-> [DAGBERT Mathis]
+> [DAGBERT Mathis](mathis.dagbert@edu.univ-fcomte.fr)
 >
-> [CHEKKI Rimes]
+> [CHEKKI Rimes](rimes.chekki@edu.univ-fcomte.fr)
 >
-> [DJUISSI DEYNOU Syntyche]
+> [DJUISSI DEYNOU Syntyche](syntyche.djuissi_deynou@edu.univ-fcomte.fr)
 
 ## Sujet
 
