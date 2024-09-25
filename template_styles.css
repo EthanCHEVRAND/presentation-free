@@ -21,8 +21,9 @@ header {
 
 /* Logo */
 .logo {
-    width: 150px;
+    width: 100px;
     height: auto;
+    margin-left: 20px;
 }
 
 .logo-nav-container {
