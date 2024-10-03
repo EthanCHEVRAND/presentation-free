@@ -29,33 +29,33 @@ Pour la conception du zonning et le wireframe nous avons utilise [figma](https:/
 
 ### Page d'accueil
 
-**Auteur : Toute l'équipe**  
+**Auteur : Toute l'équipe**
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fethanchevrand.github.io%2Fpresentation-free%2F)
 
 
 ### Histoire
 
-**Auteur : CHOULET Alban **  
+**Auteur : CHOULET Alban**
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fethanchevrand.github.io%2Fpresentation-free%2FPages%2Fhistoire.html)
 
 ### Economie
 
-** Auteur: CHEKKI Rimes, DJUISSI DEYNOU Syntyche **
+**Auteur: CHEKKI Rimes, DJUISSI DEYNOU Syntyche**
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fethanchevrand.github.io%2Fpresentation-free%2FPages%2Feconomie.html)
 
 ### Technique
 
-** Auteur: CHEVRAND Ethan **
+**Auteur: CHEVRAND Ethan**
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fethanchevrand.github.io%2Fpresentation-free%2FPages%2Ftechnique.html)
 
 
 ### Ecologie
 
-** Auteur: DAGBERT Mathis **
+**Auteur: DAGBERT Mathis**
 
 Vérificiation W3C: [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fethanchevrand.github.io%2Fpresentation-free%2FPages%2Fecologie.html)
 
