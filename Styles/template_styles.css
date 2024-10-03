@@ -11,6 +11,15 @@ body {
     color: #333;
 }
 
+a {
+    color: #ff0000;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #00ff00; /* Changes to a different color when hovering */
+}
+
 /* Header */
 
 header {
@@ -79,6 +88,7 @@ footer {
     color: white;
     position: fixed;
     bottom: 0;
+    left: 0;
     width: 100%;
 }
 
