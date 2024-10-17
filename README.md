@@ -29,6 +29,8 @@ Pour la conception du zonning et le wireframe nous avons utilise [figma](https:/
 
 ### Page d'accueil
 
+Vérification écologique : [Détail ICI](./verifications/test_eco.png)
+
 **Auteur : Toute l'équipe**
 
 Vérification W3C : [Détail ICI](./verifications/index.png)
