@@ -29,35 +29,37 @@ Pour la conception du zonning et le wireframe nous avons utilise [figma](https:/
 
 ### Page d'accueil
 
+Vérification écologique : [Détail ICI](./verifications/test_eco.png)
+
 **Auteur : Toute l'équipe**
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fethanchevrand.github.io%2Fpresentation-free%2F)
+Vérification W3C : [Détail ICI](./verifications/index.png)
 
 
 ### Histoire
 
 **Auteur : CHOULET Alban**
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fethanchevrand.github.io%2Fpresentation-free%2FPages%2Fhistoire.html)
+Vérification W3C : [Détail ICI](./verifications/histoire.png)
 
 ### Economie
 
 **Auteur: CHEKKI Rimes, DJUISSI DEYNOU Syntyche**
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fethanchevrand.github.io%2Fpresentation-free%2FPages%2Feconomie.html)
+Vérification W3C : [Détail ICI](./verifications/economie.png)
 
 ### Technique
 
 **Auteur: CHEVRAND Ethan**
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fethanchevrand.github.io%2Fpresentation-free%2FPages%2Ftechnique.html)
+Vérification W3C : [Détail ICI](./verifications/technique.png)
 
 
 ### Ecologie
 
 **Auteur: DAGBERT Mathis**
 
-Vérificiation W3C: [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fethanchevrand.github.io%2Fpresentation-free%2FPages%2Fecologie.html)
+Vérificiation W3C: [Détail ICI](./verifications/ecologie.png)
 
 
 ## Répartition du travail
@@ -75,7 +77,6 @@ Vérificiation W3C: [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 ### Rapport économique
 
 - Toute l'équipe
-- NB: chaque membre de l'équipe a rédigé sa partie respective ( voir [Répartition](#Répartition) )
 
 
 ### Développement site
